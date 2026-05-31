@@ -15,5 +15,5 @@
 <p align="center">
   <img src="./imgs/3.png" alt="图片描述" width="100%">
   <br>
-  <small><i>图3：Memory Mapping</i></small>
+  <small><i>图3：Memory Map</i></small>
 </p>
