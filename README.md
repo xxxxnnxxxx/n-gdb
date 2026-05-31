@@ -1,4 +1,4 @@
-全部由AI开的基于gdb的图形化调试器
+全部由AI开发的基于gdb的图形化调试器
 
 <p align="center">
   <img src="./imgs/1.png" alt="图片描述" width="100%">
